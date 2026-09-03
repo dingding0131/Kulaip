@@ -1,10 +1,19 @@
 # Cloudflare 优选 IP
 
-这是自动生成的 Cloudflare IP 优选结果。
+**测试地点**: 中国四川联通
+**更新频率**: 每半小时自动更新
+**本次更新**: 2026-09-04 07:25:47
 
-**更新时间**：2026-09-04 06:47:03
+## 订阅链接
 
-## 订阅地址
+- 高速优选：`/best_ips.txt`
+- 所有可用：`/full_ips.txt`
 
-- 高速优选：https://raw.githubusercontent.com/dingding0131/Kulaip/main/best_ips.txt
-- 全部结果：https://raw.githubusercontent.com/dingding0131/Kulaip/main/full_ips.txt
+## 使用方法
+
+1. 复制订阅链接。
+2. 打开 EdgeTunnel 后台。
+3. 创建优选订阅，选择"优选订阅模式 - 自定义"。
+4. 在订阅接口 / API / URL 中粘贴订阅链接。
+5. 验证可用性，选择"追加 API"。
+6. 保存并重新订阅。
